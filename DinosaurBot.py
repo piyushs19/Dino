@@ -3,7 +3,7 @@ import time
 import pyautogui
 from numpy import *
 import sys
-sys.setrecursionlimit(2500)
+sys.setrecursionlimit(3000)
 
 class Cordinates():
     replayBtn = (482,460)
